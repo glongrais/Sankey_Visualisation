@@ -19,7 +19,7 @@ To install Plotly:
 pip install numbers-parser
 `````
 
-The data are handle using [Pandas](https://pandas.pydata.org/) dataframes.
+The data are handle using [Pandas](https://pandas.pydata.org/) dataframes.  
 To install Pandas: 
 ````
 pip install pandas
