@@ -13,6 +13,18 @@ To install Plotly:
 pip install plotly
 `````
 
+The file reading from [Apple Numbers files](https://www.apple.com/numbers/) is done using the [Numbers-parser librairy](https://pypi.org/project/numbers-parser/).  
+To install Plotly: 
+````
+pip install numbers-parser
+`````
+
+The data are handle using [Pandas](https://pandas.pydata.org/) dataframes.
+To install Pandas: 
+````
+pip install pandas
+`````
+
 ## Principles
 
 ![example plot](https://github.com/glongrais/Sankey_Visualisation/blob/main/Fig/example_plot.png)
