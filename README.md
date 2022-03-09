@@ -12,3 +12,7 @@ To install Plotly:
 ````
 pip install plotly
 `````
+
+## Principles
+
+![example plot](https://github.com/glongrais/Sankey_Visualisation/blob/main/Fig/example_plot.png)
