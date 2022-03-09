@@ -13,7 +13,7 @@ To install Plotly:
 pip install plotly
 `````
 
-The file reading from [Apple Numbers files](https://www.apple.com/numbers/) is done using the [Numbers-parser librairy](https://pypi.org/project/numbers-parser/).  
+The file reading from [Apple Numbers](https://www.apple.com/numbers/) files is done using the [Numbers-parser librairy](https://pypi.org/project/numbers-parser/).  
 To install Numbers-parser: 
 ````
 pip install numbers-parser
